@@ -10,6 +10,22 @@
             padding-top: 3em;
             padding-bottom: 0em;
         }
+        /* center the iframe */
+        
+        iframe {
+            display: block;
+            border-style: none;
+            width: 100%;
+            height: 1100px;
+            margin: 0;
+            padding: 0;
+        }
+        
+        #googleframe {
+            /*margin-left: auto;/*
+            /*margin-right: auto;*/
+            text-align: center;
+        }
         
         #center {
             text-align: center;
@@ -139,6 +155,17 @@
             background-color: #B6CAD4;
         }
         
+        #nav31 {
+            font-family: 'Josefin Sans', sans-serif;
+            margin: auto;
+            padding-top: 2em;
+            padding-bottom: 2em;
+            width: 30%;
+            text-align: center;
+            background-color: #E7BDA4;
+            border-radius: 10px;
+        }
+        
         #nav32 {
             display: inline-block;
             font-family: 'Josefin Sans', sans-serif;
@@ -150,4 +177,55 @@
             border-radius: 10px;
             padding-bottom: 2em;
             background-color: #DFebf3;
+        }
+        
+        #nav41 {
+            font-family: 'Josefin Sans', sans-serif;
+            margin: auto;
+            padding-top: 2em;
+            padding-bottom: 2em;
+            width: 30%;
+            text-align: center;
+            background-color: #F3E1D6;
+            border-radius: 10px;
+        }
+        
+        #nav42 {
+            font-family: 'Josefin Sans', sans-serif;
+            margin: auto;
+            padding-top: 2em;
+            padding-bottom: 2em;
+            width: 30%;
+            text-align: center;
+            background-color: #CBAAA2;
+            border-radius: 10px;
+        }
+        
+        #nav43 {
+            font-family: 'Josefin Sans', sans-serif;
+            margin: auto;
+            padding-top: 2em;
+            padding-bottom: 2em;
+            width: 30%;
+            text-align: center;
+            background-color: #B18D8B;
+            border-radius: 10px;
+        }
+        /* center image info */
+        
+        #info {
+            width: 100%;
+            text-align: center;
+            margin: auto;
+        }
+        
+        #nav52 {
+            font-family: 'Josefin Sans', sans-serif;
+            margin: auto;
+            padding-top: 2em;
+            padding-bottom: 2em;
+            width: 30%;
+            text-align: center;
+            background-color: #B4C9D4;
+            border-radius: 10px;
         }
