@@ -118,6 +118,19 @@
             border-radius: 10px;
         }
         
+        #para2 p {
+            font-family: 'Joan', sans-serif;
+            font-size: 20px;
+            margin: auto;
+            width: 26%;
+            text-align: center;
+            line-height: 1.5em;
+            text-align: center;
+            padding: 25px;
+            border: 2px solid #B18D8B;
+            border-radius: 10px;
+        }
+        
         footer {
             font-family: 'Joan', sans-serif;
             text-align: center;
